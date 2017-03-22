@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Product xmlns='http://code.google.com/p/open-zwave/'>
+  <CommandClass id="112">
+    <Value type="byte" index="1" genre="config" label="Mode Setting" read_only="false" units="" size="1" value="2">
+      <Help>
+        1   ->  to control light with 1 wall switch or to control light with 2 wall switches
+        2   ->  to control 1 light witch 1 wall switch that has light indicator
+      </Help>
+    </Value>
+  </CommandClass>
+</Product>
+
