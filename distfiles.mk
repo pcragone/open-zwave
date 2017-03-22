@@ -23,6 +23,7 @@ DISTFILES =	.gitignore \
 	config/BeNext/PluginDimmer.xml \
 	config/BeNext/SceneController.xml \
 	config/BeNext/TagReader.xml \
+	config/BeNext/TagReader500.xml \
 	config/act/lfm20.xml \
 	config/act/zdm230.xml \
 	config/act/zdw103.xml \
@@ -75,8 +76,13 @@ DISTFILES =	.gitignore \
 	config/aeotec/zw117.xml \
 	config/aeotec/zw120.xml \
 	config/aeotec/zw121.xml \
+	config/aeotec/zw129.xml \
 	config/aeotec/zw130.xml \
+	config/aeotec/zw132.xml \
+	config/aeotec/zw139.xml \
+	config/aeotec/zw140.xml \
 	config/assa_abloy/KeyfreeConnected.xml \
+	config/assa_abloy/nexTouch.xml \
 	config/assa_abloy/PushButtonDeadbolt.xml \
 	config/assa_abloy/PushButtonLever.xml \
 	config/assa_abloy/TouchDeadbolt.xml \
@@ -100,6 +106,7 @@ DISTFILES =	.gitignore \
 	config/dlink/dch-z510.xml \
 	config/domitech/zb22uk.xml \
 	config/domitech/ze27eu.xml \
+	config/domux/dx2skz.xml \
 	config/dragontech/wd-100.xml \
 	config/duwi/05458.xml \
 	config/duwi/ZWES1000.xml \
@@ -141,6 +148,8 @@ DISTFILES =	.gitignore \
 	config/evolve/lrm-as.xml \
 	config/evolve/lsm-15.xml \
 	config/evolve/ltm-5.xml \
+	config/fakro/zwp10.xml \
+	config/fakro/zwrs.xml \
 	config/fakro/zws12.xml \
 	config/fakro/zws230.xml \
 	config/fibaro/fgbs001.xml \
@@ -359,6 +368,7 @@ DISTFILES =	.gitignore \
 	config/zooz/zse09.xml \
 	config/zooz/zse40.xml \
 	config/zwave.me/ZME_05431.xml \
+	config/zwave.me/ZME_05461.xml \
 	config/zwave.me/ZME_06433.xml \
 	config/zwave.me/ZME_06436.xml \
 	config/zwave.me/ZME_064381.xml \
